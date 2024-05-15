@@ -1,7 +1,7 @@
 
 # Python selenium test otomasyon projesi
 
-Bu proje Gonca Yüksekkaya tarafından geliştirilmiştir. Projede kullanılan ve kullanılmayan pytest decorator tagleri aşağıda açıklanmıştır.
+Bu proje Metehan Kart tarafından geliştirilmiştir. Projede kullanılan ve kullanılmayan pytest decorator tagleri aşağıda açıklanmıştır.
 
 # @pytest.fixture
 
